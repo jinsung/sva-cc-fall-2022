@@ -25,7 +25,7 @@
 ## SYLLABUS
 
 ### Week 1 -- Introduction
-  * Hello
+  * [Intro](https://docs.google.com/document/d/1Wm14VwFYoSrncqNhtY4768RcBm4wBJdym1-IN7nYA7o/edit)
     * [Works](https://vimeo.com/manage/videos/594718903)
   * What is computer programming and why?
   * Reference works
