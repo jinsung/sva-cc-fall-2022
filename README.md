@@ -25,19 +25,19 @@
 ## SYLLABUS
 
 ### Week 1 -- Introduction
-  * [Intro](https://docs.google.com/document/d/1Wm14VwFYoSrncqNhtY4768RcBm4wBJdym1-IN7nYA7o/edit)
-    * [Works](https://vimeo.com/manage/videos/594718903)
-  * What is computer programming and why?
+  * Course Overview
   * Reference works
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
-  * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
-    * [Design by numbers](https://mitpress.mit.edu/books/design-numbers)
+  * Creative computing history
     * [The aesthetics + computation group](https://acg.media.mit.edu/)
+    * [Design by numbers](https://mitpress.mit.edu/books/design-numbers)
+    * [Processing](https://processing.org/)
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [Editor](https://editor.p5js.org/)
-  * Course Intro
-    * Overview / Syllabus
+  * [Who am I?](https://docs.google.com/document/d/1Wm14VwFYoSrncqNhtY4768RcBm4wBJdym1-IN7nYA7o/edit)
+    * [Works](https://vimeo.com/manage/videos/594718903)
+  * Resource / Syllabus
     
 ### Week 2 -- Shape / Variables
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
