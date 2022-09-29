@@ -20,13 +20,13 @@
 * [HW1](https://editor.p5js.org/zpeng5/sketches/B4fD5KlKx)
 
 ### Kexin(Kathy) Qin
-* [HW1]()
+* [HW1](https://editor.p5js.org/kqin1/sketches/U-tdMQbLs)
 
 ### Yunbo Shim
 * [HW1](https://editor.p5js.org/yunbo/sketches/9laxysfkk)
 
 ### Qingyang(Kacey) Xu
-* [HW1]()
+* [HW1](https://editor.p5js.org/qxu11/sketches/QCTtxgsnKE)
 
 ### Tiantian Zheng
 * [HW1](https://editor.p5js.org/Amber-Zheng/full/eURtRbR5X)
