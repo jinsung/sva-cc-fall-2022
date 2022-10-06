@@ -90,7 +90,6 @@
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
 
 ### Week 6 -- Nested Loop
  * Daito Manabe
@@ -104,6 +103,7 @@
  * Debug
    * console.log
    * Javascript Debugger
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 7 -- 2D Transformation, Function, Clock
