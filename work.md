@@ -28,7 +28,7 @@
 
 ### Kexin(Kathy) Qin
 * [HW1](https://editor.p5js.org/kqin1/sketches/U-tdMQbLs)
-* [HW2]
+* [HW2](https://editor.p5js.org/kqin1/sketches/Ie0eS1F_P)
 
 ### Yunbo Shim
 * [HW1](https://editor.p5js.org/yunbo/sketches/9laxysfkk)
