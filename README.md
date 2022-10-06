@@ -81,29 +81,29 @@
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
-### Week 5 -- Nested Loop
+### Week 5 -- Noise, Curve
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
+ * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
+ * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
 
-### Week 6 -- Noise, Curve
+### Week 6 -- Nested Loop
  * Daito Manabe
     * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
     * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
- * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
- * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
+ * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
  * Debug
    * console.log
    * Javascript Debugger
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 7 -- 2D Transformation, Function, Clock
