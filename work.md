@@ -1,6 +1,6 @@
 ### Xilu(Eliana) Cheng
 * [HW1](https://editor.p5js.org/xcheng11/sketches/xyZnNkRBx)
-* [HW2]
+* [HW2](https://editor.p5js.org/xcheng11/sketches/O8eJUrnss)
 
 ### Anya Dai
 * [HW1](https://editor.p5js.org/an.ya.oo/sketches/sZZRqgth_)
@@ -15,7 +15,7 @@
 * [HW2]
 
 ### Angeline Lim
-* [HW1](https://editor.p5js.org/alim6/sketches/iOel_kYE- )
+* [HW1](https://editor.p5js.org/enjisayshi/sketches/iOel_kYE-)
 * [HW2](https://editor.p5js.org/enjisayshi/sketches/X9q2bRb6-)
 
 ### Alicia Liu
