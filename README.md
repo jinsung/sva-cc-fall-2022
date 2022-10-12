@@ -106,6 +106,9 @@
    * Javascript Debugger
  * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
+ * Function
+    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
+    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
 
 ### Week 7 -- 2D Transformation, Function, Clock
  * [THA LTD.](http://tha.jp/works/)
@@ -119,9 +122,6 @@
 
 ### Week 8 -- Object and Array
  * [three.js](https://threejs.org/)
- * Function
-    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
-    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
