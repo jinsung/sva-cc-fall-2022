@@ -92,7 +92,7 @@
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
 
-### Week 6 -- Nested Loop
+### Week 6 -- Nested Loop, Function
  * Daito Manabe
     * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
