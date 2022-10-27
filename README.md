@@ -113,6 +113,8 @@
 
 ### Week 7 -- 2D Transformation, Function, Clock
  * [THA LTD.](http://tha.jp/works/)
+    * [HIKARI NO TOKEI](https://tha.jp/1367)
+    * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
