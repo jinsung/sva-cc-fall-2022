@@ -114,12 +114,11 @@
 ### Week 7 -- 2D Transformation, Function, Clock
  * [THA LTD.](http://tha.jp/works/)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
-    * Radians & Degrees
     * Translate / Rotate / Scale
-    * Push / Pop
+    * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
-    * Yugo cNakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
+    * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
 
 ### Week 8 -- Object and Array
  * [three.js](https://threejs.org/)
