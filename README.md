@@ -124,24 +124,24 @@
  * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 8 -- Object and Array
- * [three.js](https://threejs.org/)
+ * [DIA](https://dia.tv/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * Adding Files and Fonts
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  
 ### Week 9 -- Object and Array Practice
- * [DIA](https://dia.tv/)
+ * [three.js](https://threejs.org/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
+ * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  
 ### Week 10 -- External Files / Pixels
  * Mid-term Due
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
- * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
- * Font
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
