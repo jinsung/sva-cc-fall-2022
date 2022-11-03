@@ -132,11 +132,11 @@
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  
 ### Week 9 -- Object and Array Practice
- * Mid-term Due
  * [DIA](https://dia.tv/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  
 ### Week 10 -- External Files / Pixels
+ * Mid-term Due
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
