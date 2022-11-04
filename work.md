@@ -1,7 +1,7 @@
 ### Xilu(Eliana) Cheng
 * [HW1](https://editor.p5js.org/xcheng11/sketches/xyZnNkRBx)
 * [HW2](https://editor.p5js.org/xcheng11/sketches/O8eJUrnss)
-* [HW3](https://editor.p5js.org/xcheng11/full/0B-wiEjjT)
+* [HW3](https://editor.p5js.org/xcheng11/sketches/0B-wiEjjT)
 
 ### Anya Dai
 * [HW1](https://editor.p5js.org/an.ya.oo/sketches/sZZRqgth_)
@@ -10,12 +10,12 @@
 
 ### Hannah Lee
 * [HW1](https://editor.p5js.org/ylee150/sketches/nMsJvmX2v)
-* [HW2](https://editor.p5js.org/ylee150/full/BejbaS9NM)
+* [HW2](https://editor.p5js.org/ylee150/sketches/BejbaS9NM)
 * [HW3](https://editor.p5js.org/ylee150/sketches/rYGvCeG-3)
 
 ### Qianxia(Sia) Li 
 * [HW1](https://editor.p5js.org/qli22/sketches/kH55-KFBq)
-* [HW2]
+* [HW2](https://editor.p5js.org/qli22/sketches/gw0fL1NVx)
 * [HW3](https://editor.p5js.org/qli22/sketches/JdTwVqbus)
 
 ### Angeline Lim
@@ -25,8 +25,8 @@
 
 ### Alicia Liu
 * [HW1](https://editor.p5js.org/aliu17/sketches/fvJSGs8P2)
-* [HW2]
-* [HW3]()
+* [HW2](https://editor.p5js.org/aliu17/sketches/bqc6K46zP)
+* [HW3](https://editor.p5js.org/aliu17/sketches/WXF7Piuu5)
 
 ### Zedan(Dan) Peng
 * [HW1](https://editor.p5js.org/zpeng5/sketches/B4fD5KlKx)
@@ -46,12 +46,12 @@
 ### Qingyang(Kacey) Xu
 * [HW1](https://editor.p5js.org/qxu11/sketches/QCTtxgsnKE)
 * [HW2](https://editor.p5js.org/qxu11/sketches/NlBF8MncQ)
-* [HW3](https://editor.p5js.org/qxu11/full/AyMv7lp52)
+* [HW3](https://editor.p5js.org/qxu11/sketches/AyMv7lp52)
 
 ### Tiantian Zheng
-* [HW1](https://editor.p5js.org/Amber-Zheng/full/eURtRbR5X)
-* [HW2](https://editor.p5js.org/Amber-Zheng/full/RAN9x2CxG)
-* [HW3]()
+* [HW1](https://editor.p5js.org/Amber-Zheng/sketches/eURtRbR5X)
+* [HW2](https://editor.p5js.org/Amber-Zheng/sketches/RAN9x2CxG)
+* [HW3](https://editor.p5js.org/Amber-Zheng/sketches/cKlRwzGbO)
 
 ### Yaxin Zou
 * [HW1](https://editor.p5js.org/yzou3/sketches/jL5r0Rfkt)
