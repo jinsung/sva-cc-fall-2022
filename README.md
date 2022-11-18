@@ -157,7 +157,7 @@
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
  * [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
  * [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
- * [Friction](https://editor.p5js.org/jinsung/sketches/o-pAFmMop)
+ * [Friction](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
 ### Week 12 -- Particle System
