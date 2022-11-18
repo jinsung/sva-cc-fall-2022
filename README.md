@@ -151,7 +151,7 @@
 ### Week 11 -- Vector / Force
  * [Matter.js](https://brm.io/matter-js/)
  * [Webcam+Ascii](https://editor.p5js.org/jinsung/sketches/WxPEGXAPL)
- * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
+ * [Posenet](https://editor.p5js.org/jinsung/sketches/WxPEGXAPL)
  * Vector (Class)
   * Vector vs Point
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
