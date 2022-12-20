@@ -24,9 +24,10 @@
 
 ### Angeline Lim
 * [HW1](https://editor.p5js.org/enjisayshi/sketches/iOel_kYE-)
-* [HW2](https://editor.p5js.org/enjisayshi/sketches/X9q2bRb6-)
+* [HW2](https://editor.p5js.org/enjisayshi/sketches/ZctpTJLii)
 * [HW3](https://editor.p5js.org/enjisayshi/sketches/OeikwbnvD)
 * [MT](https://editor.p5js.org/enjisayshi/sketches/xZzqXSSjx)
+* [Final](https://editor.p5js.org/enjisayshi/sketches/zSZ6zqU-i)
 
 ### Alicia Liu
 * [HW1](https://editor.p5js.org/aliu17/sketches/fvJSGs8P2)
