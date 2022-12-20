@@ -24,6 +24,7 @@
 * [HW2](https://editor.p5js.org/qli22/sketches/gw0fL1NVx)
 * [HW3](https://editor.p5js.org/qli22/sketches/JdTwVqbus)
 * [MT](https://editor.p5js.org/qli22/sketches/oDdcor6sy)
+* [Final](https://editor.p5js.org/qli22/sketches/L5nLNpo_Z)
 
 ### Angeline Lim
 * [HW1](https://editor.p5js.org/enjisayshi/sketches/iOel_kYE-)
@@ -37,18 +38,21 @@
 * [HW2](https://editor.p5js.org/aliu17/sketches/bqc6K46zP)
 * [HW3](https://editor.p5js.org/aliu17/sketches/WXF7Piuu5)
 * [MT](https://editor.p5js.org/aliu17/sketches/GOgp5TNHW)
+* [Final](https://editor.p5js.org/aliu17/sketches/3Ax4rJqnh)
 
 ### Zedan(Dan) Peng
 * [HW1](https://editor.p5js.org/zpeng5/sketches/B4fD5KlKx)
 * [HW2](https://editor.p5js.org/zpeng5/sketches/0xxPPfhLm)
 * [HW3](https://editor.p5js.org/zpeng5/sketches/yJnZRhMje)
 * [MT](https://editor.p5js.org/zpeng5/sketches/tQP_hi8_r)
+* [Final](https://editor.p5js.org/zpeng5/sketches/643x5eUxa)
 
 ### Kexin(Kathy) Qin
 * [HW1](https://editor.p5js.org/kqin1/sketches/U-tdMQbLs)
 * [HW2](https://editor.p5js.org/kqin1/sketches/Ie0eS1F_P)
 * [HW3](https://editor.p5js.org/kqin1/sketches/h3e3AOQwO)
 * [MT](https://editor.p5js.org/kqin1/full/loszuVDRM)
+* [Final](https://editor.p5js.org/kqin1/sketches/UqIJEA-5P)
 
 ### Yunbo Shim
 * [HW1](https://editor.p5js.org/yunbo/sketches/9laxysfkk)
